@@ -1,0 +1,794 @@
+[
+  {
+    "question": "Tinch holatda katta yoshli odamning nafas olish soni: 15-18/daqiqa",
+    "options": [
+      "ha",
+      "yo’q"
+    ],
+    "correct_option_id": 0
+  },
+  {
+    "question": "Passiv nafas chiqarish nima hisobiga amalga oshadi:",
+    "options": [
+      "tashqi qovurg'alararo mushaklar va diafragmaning bo'shashishi",
+      "tashqi qovurg'alararo mushaklar va diafragmaning qisqarishi",
+      "qorin presssi mushaklarining qisqarishi",
+      "ichki qovurg'alararo mushaklarning qisqarishi"
+    ],
+    "correct_option_id": 0
+  },
+  {
+    "question": "Oddiy nafas chiqarishda plevra bosimi: 3-4 mm simob ustuni",
+    "options": [
+      "ha",
+      "yo’q"
+    ],
+    "correct_option_id": 0
+  },
+  {
+    "question": "Nafas olish-bu:",
+    "options": [
+      "o'pkaga havo kirishining faol jarayoni",
+      "o'pkaga karbonat angidrid kirishining faol jarayoni",
+      "o'pkaga havo kirishining passiv jarayoni",
+      "o'pkadan karbonat angidrid chiqarib tashlanishining faol jarayoni"
+    ],
+    "correct_option_id": 0
+  },
+  {
+    "question": "Gazlarning alveolyar havodan qonga va yana alveolyar havoga diffuziyasining sababi:",
+    "options": [
+      "alveolyar havo va qon o'rtasidagi parsial bosim va tarangligini farqi",
+      "alveolalar va kapillyarlarning yaqin joylashganligi",
+      "O2 va СО2 ning faol transporti",
+      "Hb ning O2 ga yaqinligining o'zgarishi"
+    ],
+    "correct_option_id": 0
+  },
+  {
+    "question": "O'pka ventilyasiyasi nima uchun kerak?",
+    "options": [
+      "alveolyar havo doimiyligini saqlash",
+      "tarkibi bo'yicha alveolyar havoni atmosfera havosiga yaqinlashtirish",
+      "alveolyar havoda O2 miqdorini kamaytirish, СО2 miqdorini oshirish",
+      "alveolyar havoda O2 va СО2 miqdorini oshirish"
+    ],
+    "correct_option_id": 0
+  },
+  {
+    "question": "Nafas hajmi - bu:",
+    "options": [
+      "tinch nafas olayotganda nafas olinadigan va chiqariladigan havo hajmi",
+      "oddiy nafas olib-chiqargandan so'ng maksimal chiqarib yuboriladigan havo hajmi",
+      "maksimal nafas chiqarishdan keyin o'pkada qoladigan havo hajmi",
+      "oddiy nafas olgandan keyin maksimal nafas olishda olish mumkin bo'lgan havo hajmi"
+    ],
+    "correct_option_id": 0
+  },
+  {
+    "question": "Oddiy nafas olish qaysi mushaklarning qisqarishi bilan boshlanadi:",
+    "options": [
+      "tashqi qovurg'alararo mushaklar va diafragma",
+      "ichki qovurg'alararo mushaklar va elka-kamar mushaklari",
+      "ko'krak va orqa mushaklari",
+      "bo'yin mushaklari va ichki qovurg'alararo mushaklar"
+    ],
+    "correct_option_id": 0
+  },
+  {
+    "question": "Nafasning daqiqalik hajmi (NDH) – bu qanday havo miqdori:",
+    "options": [
+      "o'pka orqali 1 daqiqada ventilyasiya qilinadigan",
+      "1 ta nafas tsiklida o'pkaga kiradigan",
+      "chuqur nafas olgandan keyin maksimal darajada chiqariladigan",
+      "oddiy nafas olgandan keyin maksimal darajada chiqariladigan"
+    ],
+    "correct_option_id": 0
+  },
+  {
+    "question": "Funktsional o'lik bo'shliqqa quyidagilar kiradi:",
+    "options": [
+      "ventilyasiya qilinadigan, ammo perfuziyalanmagan alveolalar (qon oqimi yo'q)",
+      "ventilyasiya qilinadigan va perfuziyalangan alveolalar",
+      "traxeya",
+      "bronxlar"
+    ],
+    "correct_option_id": 0
+  },
+  {
+    "question": "Plevra bo'shlig'iga xos bo'lmagan xususiyatni ko'rsating:",
+    "options": [
+      "havoning mavjudligi",
+      "germetiklik",
+      "seroz suyuqlikning mavjudligi",
+      "havoning yo'qligi"
+    ],
+    "correct_option_id": 0
+  },
+  {
+    "question": "Chuqur nafas olish paytida plevra bo'shlig'idagi bosim: 15 - 20 mm simob ustuni",
+    "options": [
+      "ha",
+      "yo’q"
+    ],
+    "correct_option_id": 0
+  },
+  {
+    "question": "Alveolalar va qon o'rtasida gaz almashinuvi qaerda kechadi:",
+    "options": [
+      "kichik qon aylanish doirasi kapillyarlarida",
+      "kichik qon aylanish doirasi arteriyalarida",
+      "kichik qon aylanish doirasi venalarida",
+      "katta qon aylanish doirasi kapillyarlarida"
+    ],
+    "correct_option_id": 0
+  },
+  {
+    "question": "Alveolyar havodagi gazlarning parsial bosimi:",
+    "options": [
+      "pО2 100 mm simob ustuni; pСО2-40 mm simob ustuni",
+      "pО2-40 mm simob ustuni; pСО2 46 mm simob ustuni",
+      "pО2-46 mm simob ustuni; pСО2 60 mm simob ustuni",
+      "pО2-0 mm simob ustuni; pСО2 60 mm simob ustuni"
+    ],
+    "correct_option_id": 0
+  },
+  {
+    "question": "Alveolalardagi surfaktant:",
+    "options": [
+      "suvli plyonkaning sirt tarangligini kamaytiradi",
+      "alveolalarning gazlar uchun o'tkazuvchanligini oshiradi",
+      "o'pkaning elastik tortilishini hosil qiladi",
+      "suvli plyonkaning sirt tarangligini oshiradi"
+    ],
+    "correct_option_id": 0
+  },
+  {
+    "question": "Passiv nafas chiqarish nimadan boshlanadi:",
+    "options": [
+      "inspirator mushaklarning bo'shashishidan",
+      "ekspirator mushaklarning qisqarishidan",
+      "o'pkadan havo chiqishidan",
+      "inspirator mushaklarning qisqarishidan"
+    ],
+    "correct_option_id": 0
+  },
+  {
+    "question": "O2 kontsentrasiyasi nima hisobiga alveolyar havoga qaraganda chiqariladigan havoda yuqori:",
+    "options": [
+      "o'lik bo'shliqning mavjudligi",
+      "nafas chiqarish zaxira hajmining oshishi",
+      "O'TSning kattalashishi",
+      "azotning yutilishi"
+    ],
+    "correct_option_id": 0
+  },
+  {
+    "question": "O'pkaning tiriklik sig'imi (O'TS) quyidagilardan iborat:",
+    "options": [
+      "nafas hajmi (NH)+ nafas olishning rezerv hajmi + nafas chiqarishning rezerv hajmi",
+      "nafas hajmi (NH) + qoldiq hajm (QH)",
+      "nafas hajmi (NH)+nafas olishning rezerv hajmi",
+      "nafas hajmi (NH) + nafas chiqarishning rezerv hajmi + qoldiq hajm (QH)"
+    ],
+    "correct_option_id": 0
+  },
+  {
+    "question": "Atmosfera havosining tarkibini ko'rsating:",
+    "options": [
+      "O2-20,94%, СО2-0,03%, N2-79%",
+      "O2-14-15%, СО2-5,5-6%, N2-80%",
+      "C2-16-18%, СО2-2,5-4%, N2-79,7%",
+      "O2-12%, СО2 - 8 %, N2-80%"
+    ],
+    "correct_option_id": 0
+  },
+  {
+    "question": "Anatomik o'lik bo'shliq quyidagi funktsiyalarni bajaradi:",
+    "options": [
+      "havoni isitadi, namlaydi, tozalaydi, himoya reflekslarini ishga tushiradi",
+      "kislorodning parsial bosimini qo'llab-quvvatlaydi",
+      "nafas olish hajmini tartibga soladi",
+      "alveolyar havo tarkibini tartibga soladi"
+    ],
+    "correct_option_id": 0
+  },
+  {
+    "question": "Tashqi nafas olish – bu:",
+    "options": [
+      "atmosfera va alveolyar havo o'rtasidagi gaz almashinuvi;",
+      "o'pka va qon o'rtasidagi gaz almashinuvi",
+      "gazlarni qon bilan tashish",
+      "qon va to'qimalar o'rtasidagi gaz almashinuvi"
+    ],
+    "correct_option_id": 0
+  },
+  {
+    "question": "Sog'lom odamlarda alveolalar puchayganda bir-biriga yopishmaydi, chunki:",
+    "options": [
+      "alveolalarda sirt tarangligini kamaytiradigan surfaktant mavjud",
+      "ularda suvli plyonka bor",
+      "alveolalar devorida elastik tolalar mavjud",
+      "plevra qobiqlarida suvni so'rish qobiliyati bor"
+    ],
+    "correct_option_id": 0
+  },
+  {
+    "question": "Alveolyar havo tarkibini ko'rsating:",
+    "options": [
+      "O2-14-15%, СО2-5,5-6%, N2-80 %",
+      "O2-16-18%, СО2-2,5-4%, N2-79,7 %",
+      "O2 -20,94%, СО2-0,03%, N2-79 %",
+      "O2-12%, СО2 - 8 %, N2 - 80 %."
+    ],
+    "correct_option_id": 0
+  },
+  {
+    "question": "Havo yo'llarining yuzasi nima bilan qoplangan:",
+    "options": [
+      "hilpillovchi epiteliy",
+      "endoteliy",
+      "alveolositlar",
+      "ko'p qatlamli shoxlangan epiteliy"
+    ],
+    "correct_option_id": 0
+  },
+  {
+    "question": "Qoldiq hajmi - bu:",
+    "options": [
+      "maksimal nafas chiqarishdan keyin o'pkada qolgan havo hajmi",
+      "tinch nafas olayotganda nafas olinadigan va chiqariladigan havo hajmi",
+      "oddiy nafas olib-chiqargandan so'ng maksimal chiqarib yuboriladigan havo hajmi",
+      "oddiy nafas olgandan keyin maksimal nafas olishda olish mumkin bo'lgan havo hajmi"
+    ],
+    "correct_option_id": 0
+  },
+  {
+    "question": "Gaz almashinuvi sodir bo'ladi:",
+    "options": [
+      "alveolalarda",
+      "katta bronxlarda",
+      "o'rta bronxlarda",
+      "traxeyada"
+    ],
+    "correct_option_id": 0
+  },
+  {
+    "question": "Katta yoshlilarda anatomik o'lik bo'shliq qanchani tashkil etadi: 140-150 ml",
+    "options": [
+      "ha",
+      "yo’q"
+    ],
+    "correct_option_id": 0
+  },
+  {
+    "question": "Asinus-bu:",
+    "options": [
+      "nafas olish bronxiolalari, alveolyar yo'llar va alveolalar",
+      "yuqori havo yo'llari",
+      "kichik bronxlar tizimi",
+      "alveolalar va barcha havo yo'llarining yig'indisi"
+    ],
+    "correct_option_id": 0
+  },
+  {
+    "question": "Nafas olish markazi tarkibiga kiradigan orqa miya neyronlarining funktsiyalarini ko'rsating:",
+    "options": [
+      "nafas mushaklarining innervasiyasi",
+      "nafasni nutq bilan muvofiqlashtirishni ta'minlash",
+      "nafasni organizmning vegetativ funktsiyalari bilan birlashtirish",
+      "nafas olishning tekisligi va ritmini ta'minlash;"
+    ],
+    "correct_option_id": 0
+  },
+  {
+    "question": "Chang yoki o'tkir hid bilan nafas olganda qaysi reflekslar paydo bo'ladi:",
+    "options": [
+      "himoya (yo'tal, aksirish)",
+      "Gering - Breyer",
+      "qon tomir zonalarining xemoreseptorlaridan",
+      "qon tomir refleksogen zonalarning baroreseptorlaridan"
+    ],
+    "correct_option_id": 0
+  },
+  {
+    "question": "Hayvonni yopiq joyga qo'yganda, nafas olishi tezlashadi va kuchayadi, chunki.:",
+    "options": [
+      "qonda pО2 pasayadi va pСО2 ko'payadi",
+      "qonda pО2 ko'payadi",
+      "qonda pСО2 pasayadi",
+      "qonda pО2 va pСО2 ko'payadi"
+    ],
+    "correct_option_id": 0
+  },
+  {
+    "question": "O2 va СО2 tashiladi:",
+    "options": [
+      "eritrositlar bilan",
+      "leykositlar bilan",
+      "trombositlar bilan",
+      "qon plazmasi oqsillari bilan"
+    ],
+    "correct_option_id": 0
+  },
+  {
+    "question": "Jismoniy zo'riqishda odamda giperpnoe paydo bo'ladi, chunki:",
+    "options": [
+      "miya tomirlarining xemoreseptorlari qo'zg'aladi",
+      "o'pka mexanoreseptorlari qo'zg'aladi",
+      "nafas olish mushaklarining proprioreseptorlari qo'zg'aladi",
+      "qonda pСО2 pasayadi"
+    ],
+    "correct_option_id": 0
+  },
+  {
+    "question": "Qonning kislorod sig'imi pasayganda nima buziladi:",
+    "options": [
+      "qon orqali gazlarning tashilishi",
+      "tashqi nafas olish",
+      "o'pkada gazlarning tarqalishi",
+      "to'qimalarda gazlarning tarqalishi"
+    ],
+    "correct_option_id": 0
+  },
+  {
+    "question": "Oksigemoglobinning dissosiasiyalanish egri chizig'i .......o'rtasidagi munosabatni ko'rsatadi:",
+    "options": [
+      "oksigemoglobinning foizdagi miqdori va qondagi kislorodning tarangligi",
+      "O2 miqdori va plevra ichi bosimi",
+      "qondagi O2 kuchlanishi va o'pka ichidagi bosim miqdori",
+      "oksigemoglobinning foizdagi miqdori va qondagi eritrositlar soni"
+    ],
+    "correct_option_id": 0
+  },
+  {
+    "question": "Gipoksik gipoksiya qachon sodir bo'ladi:",
+    "options": [
+      "atmosfera havosida pО2 ning kamayishi",
+      "qon kislorod sig'imining kamayishi",
+      "to'qimalar nafas fermentlari funktsiyalarining o'zgarishi",
+      "qonda eritrositlar sonining kamayishi"
+    ],
+    "correct_option_id": 0
+  },
+  {
+    "question": "Gering-Breyer refleksi .......... boshlanishiga yordam beradi:",
+    "options": [
+      "nafas chiqarishning",
+      "nafas olishning",
+      "inspirator markazning qo'zg'alishi",
+      "nafas mushaklarining qisqarishi"
+    ],
+    "correct_option_id": 0
+  },
+  {
+    "question": "Gering-Breyer refleksi qachon boshlanadi:",
+    "options": [
+      "o'pka va nafas yo'llarini cho'zish mexanoreseptorlari",
+      "aorta yoyi va karotid sinusning xemoreseptorlari",
+      "nafas olish mushaklarining proprioreseptorlari",
+      "aorta yoyi baroreseptorlari"
+    ],
+    "correct_option_id": 0
+  },
+  {
+    "question": "MNH (minutli nafas hajmi)ni hisoblash formulasini ko'rsating:",
+    "options": [
+      "NCh x nafas hajmi",
+      "Yurak urish tezligi x sistolik hajm",
+      "NCh x qoldiq hajm",
+      "Nafas hajmi + zahira hajmi"
+    ],
+    "correct_option_id": 0
+  },
+  {
+    "question": "Anemiya gipoksiyasi quyidagi hollarda yuzaga keladi:",
+    "options": [
+      "qonda kislorod hajmi kamayganda",
+      "gemodinamika buzilganda",
+      "atmosfera havosida pО2 kamayganda",
+      "to'qimalar nafas fermentlari funktsiyasi o'zgarganda"
+    ],
+    "correct_option_id": 0
+  },
+  {
+    "question": "Tsirkulyator gipoksiya quyidagi hollarda yuzaga keladi:",
+    "options": [
+      "gemodinamika buzilganda",
+      "qonda kislorod hajmi kamayganda",
+      "atmosfera havosida pО2 kamayganda",
+      "to'qimalar nafas fermentlari funktsiyasi o'zgarganda"
+    ],
+    "correct_option_id": 0
+  },
+  {
+    "question": "Gistotoksik gipoksiya quyidagi hollarda yuzaga keladi:",
+    "options": [
+      "to'qimalar nafas fermentlari funktsiyasi o'zgarganda",
+      "qonda kislorod hajmi kamayganda",
+      "gemodinamika buzilganda",
+      "atmosfera havosida pО2 kamayganda"
+    ],
+    "correct_option_id": 0
+  },
+  {
+    "question": "O'pka mexanoreseptorlarining ta'sirlanishi qachon yuzaga keladi:",
+    "options": [
+      "o'pkada havo hajmi oshganda",
+      "kislorod parsial bosimi o'zgarganda",
+      "kislorod va karbonat angidridning parsial bosimi o'zgarganda",
+      "kimyoviy moddalar ta'sirida"
+    ],
+    "correct_option_id": 0
+  },
+  {
+    "question": "Kesson kasalligi rivojlanishining sababi:",
+    "options": [
+      "havo emboliyasi",
+      "gipoksiya",
+      "giperoksiya",
+      "giperkapniya"
+    ],
+    "correct_option_id": 0
+  },
+  {
+    "question": "Qonning kislorod sig'imi - bu kislorodning ........ miqdori:",
+    "options": [
+      "gemoglobin kislorod bilan to'liq to'yinganda 100 ml (1l) qonni bog'lashi mumkin bo'lgan",
+      "aylanadigan qonning butun hajmi bilan tashiladigan",
+      "arterial qon hajmi birligi bilan tashiladigan",
+      "venoz qon hajmi birligi bilan tashiladigan"
+    ],
+    "correct_option_id": 0
+  },
+  {
+    "question": "To'qimalarning kislorod bilan etarli darajada ta'minlanmasligi nima deyiladi:",
+    "options": [
+      "gipoksiya",
+      "gipoksemiya",
+      "giperbariya",
+      "kesson kasalligi"
+    ],
+    "correct_option_id": 0
+  },
+  {
+    "question": "Gemoglobinning kislorodga birikish qobiliyatini oshiradigan omilni ko'rsating:",
+    "options": [
+      "alkaloz",
+      "asidoz",
+      "gipertermiya",
+      "giperkapniya"
+    ],
+    "correct_option_id": 0
+  },
+  {
+    "question": "Gemoglobinning kislorodga birikish qobiliyatini kamaytiradigan omilni ko'rsating:",
+    "options": [
+      "giperkapniya",
+      "alkaloz",
+      "gipokapniya",
+      "giperoksemiya"
+    ],
+    "correct_option_id": 0
+  },
+  {
+    "question": "Nafas olishning to'xtashi nima deyiladi:",
+    "options": [
+      "apnoe",
+      "eypnoe",
+      "giperpnoe",
+      "taxipnoe"
+    ],
+    "correct_option_id": 0
+  },
+  {
+    "question": "Eritrositlarda karbonat kislota hosil bo'lish reaktsiyasi nima ishtirokida amalga oshadi:",
+    "options": [
+      "karbonat angidrazalar",
+      "2,3-difosfogliserat",
+      "HCO3 ionlari",
+      "kaliy ionlari"
+    ],
+    "correct_option_id": 0
+  },
+  {
+    "question": "Nafas olishning organizm uchun ahamiyati organizmni ...... ta'minlashdir",
+    "options": [
+      "kislorod bilan",
+      "zaxira ozuqa moddalari bilan",
+      "vitaminlar bilan",
+      "qurilish materiallari bilan"
+    ],
+    "correct_option_id": 0
+  },
+  {
+    "question": "Pnevmotoraks quyidagi hollarda sodir bo'ladi",
+    "options": [
+      "plevra bo'shlig'iga havo kirganda",
+      "nafas olish mushaklari bloklanganda",
+      "o'lik bo'shliqqa havo kirganda",
+      "to'g'ri javob yo'q"
+    ],
+    "correct_option_id": 0
+  },
+  {
+    "question": "Oksigemoglobinning gemoglobin va kislorodga parchalanish joyi:",
+    "options": [
+      "kapillyarlar",
+      "o'pka alveolalari",
+      "venalar",
+      "arteriyalar"
+    ],
+    "correct_option_id": 0
+  },
+  {
+    "question": "O'pkaning tiriklik sig'imi quyidagilardan iborat …",
+    "options": [
+      "nafas chiqarishning rezerv hajmi, nafas hajmi, nafas olishning rezerv hajmi",
+      "nafas hajmi",
+      "nafas chiqarishning rezerv hajmi, nafas hajmi, nafas olishning rezerv hajmi, qoldiq hajm",
+      "nafas olish va qoldiq hajm"
+    ],
+    "correct_option_id": 0
+  },
+  {
+    "question": "Ko'krak qafasi hajmini kattalashtirishga yordam beradigan mushaklar nima deyiladi",
+    "options": [
+      "inspirator",
+      "ekspirator",
+      "yordamchi",
+      "to'g'ri javob yo'q"
+    ],
+    "correct_option_id": 0
+  },
+  {
+    "question": "Ko'krak qafasi hajmini kichraytirishga yordam beradigan mushaklar nima deyiladi",
+    "options": [
+      "ekspirator",
+      "inspirator",
+      "yordamchi",
+      "qo'shimcha"
+    ],
+    "correct_option_id": 0
+  },
+  {
+    "question": "Yuqori darajali hayvonlarda asosiy inspirator mushaklar",
+    "options": [
+      "diafragma",
+      "tog'aylararo ichki qovurg'alararo mushaklar",
+      "tashqi qovurg'alararo mushaklar",
+      "ichki qovurg'alararo mushaklar"
+    ],
+    "correct_option_id": 0
+  },
+  {
+    "question": "Yuqori darajali hayvonlarda asosiy ekspirator mushaklar",
+    "options": [
+      "qorin devori mushaklari",
+      "diafragma",
+      "trapesiyasimon mushaklar",
+      "tashqi qovurg'alararo mushaklar"
+    ],
+    "correct_option_id": 0
+  },
+  {
+    "question": "Katta yoshli odamda nafas olish hajmi o'rtacha:",
+    "options": [
+      "500 ml",
+      "1500 ml",
+      "2000 ml",
+      "2500 ml"
+    ],
+    "correct_option_id": 0
+  },
+  {
+    "question": "Katta yoshli odamning umumiy o'pka sig'imi:",
+    "options": [
+      "6000 ml",
+      "6500 ml",
+      "7000 ml",
+      "8000 ml"
+    ],
+    "correct_option_id": 0
+  },
+  {
+    "question": "Donders modeli o'rganishga imkon beradi:",
+    "options": [
+      "nafas olish biomexanikasini",
+      "o'pka hajmini",
+      "o'pka ventilyasiyasini",
+      "o'pkaning tiriklik sig'imini"
+    ],
+    "correct_option_id": 0
+  },
+  {
+    "question": "O'lik bo'shliq .... ta'minlaydi",
+    "options": [
+      "barcha javoblar to'g'ri",
+      "nafas olayotgan havoni isitishni",
+      "nafas olayotgan havoni chang zarralari va mikroorganizmlardan tozalashni",
+      "havoni namlashni"
+    ],
+    "correct_option_id": 0
+  },
+  {
+    "question": "O'pkaning funktsional-strukturaviy birligi",
+    "options": [
+      "asinus",
+      "alveola",
+      "bo'lak",
+      "o'pka to'qimasi"
+    ],
+    "correct_option_id": 0
+  },
+  {
+    "question": "Ko'krak nafas olish turi kimlarga xos",
+    "options": [
+      "ayollarga",
+      "erkaklarga",
+      "chaqaloqlarga",
+      "sportchilarga"
+    ],
+    "correct_option_id": 0
+  },
+  {
+    "question": "Karbonat angidrid birikkan gemoglobinning nomi nima?",
+    "options": [
+      "karbgemoglobin",
+      "oksigemoglobin",
+      "metgemoglobin",
+      "dezoksigemoglobin"
+    ],
+    "correct_option_id": 0
+  },
+  {
+    "question": "Kislorod birikkan gemoglobinning nomi nima?",
+    "options": [
+      "oksigemoglobin",
+      "karboksigemoglobin",
+      "metgemoglobin",
+      "dezoksigemoglobin"
+    ],
+    "correct_option_id": 0
+  },
+  {
+    "question": "Nafasni ixtiyoriy ushlab turgandan keyin giperpnoe rivojlanishining asosiy sababi nima?",
+    "options": [
+      "qonda СО2 ning ko'payishi",
+      "qonda СО2 ning kamayishi",
+      "qonda O2 ning kamayishi",
+      "qonda O2 ning ko'payishi"
+    ],
+    "correct_option_id": 0
+  },
+  {
+    "question": "Karbonat angidridning tarangligi qaerda yuqori:",
+    "options": [
+      "to'qimalarda",
+      "arterial qonda",
+      "venoz qonda",
+      "alveolalarda"
+    ],
+    "correct_option_id": 0
+  },
+  {
+    "question": "Kislorodning parsial tarangligi qaerda yuqori:",
+    "options": [
+      "arterial qonda",
+      "venoz qonda",
+      "mitoxondriyada",
+      "alveolalarda"
+    ],
+    "correct_option_id": 0
+  },
+  {
+    "question": "O'pka hajmining tez o'zgarishiga javob beradi:",
+    "options": [
+      "o'pkaning cho'zilish reseptorlari",
+      "periferik xemoreseptorlar",
+      "termoreseptorlar",
+      "gipotalamus"
+    ],
+    "correct_option_id": 0
+  },
+  {
+    "question": "Bir gramm gemoglobin qancha kislorodni biriktirishi mumkin:",
+    "options": [
+      "1,34 ml",
+      "0,5 ml",
+      "9-10 ml",
+      "2,5 ml"
+    ],
+    "correct_option_id": 0
+  },
+  {
+    "question": "Surfaktantning roli qanday?",
+    "options": [
+      "Alveolalar puchayib qolishini oldini olishda",
+      "Antitanalar ishlab chiqarishda",
+      "Alveolalar membranasini oziqlantirishda",
+      "Alveolalarni qurishdan himoya qilishda"
+    ],
+    "correct_option_id": 0
+  },
+  {
+    "question": "Alveolalar devori orqali gazlarning o'tishini qanday kuch ta'minlaydi?",
+    "options": [
+      "Parsial bosim farqi",
+      "Nafas mushaklarining qisqarishi",
+      "O'pkaning elastik tortilishi",
+      "Nafas olish va chiqarish paytida plevral bo'shliqdagi salbiy bosim farqi"
+    ],
+    "correct_option_id": 0
+  },
+  {
+    "question": "Qonda СО2 kuchlanishining oshishi qanday atama bilan ko'rsatilgan?",
+    "options": [
+      "Giperkapniya",
+      "Giperoksiya",
+      "Gipoksemiya",
+      "Gipokapniya"
+    ],
+    "correct_option_id": 0
+  },
+  {
+    "question": "Yangi tug'ilgan chaqaloqning birinchi nafas olish mexanizmi nima hisobiga yuz beradi:",
+    "options": [
+      "Giperkapniya, gipoksiya",
+      "Asidoz",
+      "Gipokapniya",
+      "Giperoksiya"
+    ],
+    "correct_option_id": 0
+  },
+  {
+    "question": "Alveolalarni barqarorlashtiradigan sirt faol modda sifatida surfaktant ishlab chiqaradigan funktsiya quyidagilarga tegishli",
+    "options": [
+      "2- tipdagi alveolositlarga",
+      "1-tipdagi alveolositlarga",
+      "o'pka makrofaglariga",
+      "semiz hujayralarga"
+    ],
+    "correct_option_id": 0
+  },
+  {
+    "question": "O'pka ventilyasiyasi quyidagilarga bog'liq",
+    "options": [
+      "Aytilganlarning hammasi to'g'ri",
+      "Tana holati",
+      "O'pka hajmi",
+      "Umuman nafas olish va qon aylanish tizimining holati"
+    ],
+    "correct_option_id": 0
+  },
+  {
+    "question": "Nafas olish hajmini baholash uchun quyidagi usullardan qaysi biri qo'llaniladi",
+    "options": [
+      "Spirometriya",
+      "Pnevmotaxometriya",
+      "Nafas olinadigan va chiqariladigan havoning gaz tahlili",
+      "Pulsoksimetriya"
+    ],
+    "correct_option_id": 0
+  },
+  {
+    "question": "Qonning kislorod bilan to'yinganligini baholash uchun quyidagi usullardan qaysi biri qo'llaniladi",
+    "options": [
+      "Pulsoksimetriya",
+      "Spirometriya",
+      "Pnevmotaxometriya",
+      "Nafas olinadigan va chiqariladigan havoning gaz tahlili qilish"
+    ],
+    "correct_option_id": 0
+  },
+  {
+    "question": "Varoliy koprigida kanday nafas markazlari joylashgan?",
+    "options": [
+      "apnestik va pnevmotaksik",
+      "nafasga tegishli markaz yok",
+      "nafas to'htatish markazi",
+      "harakatda nafasni o'zgartiruvchi markaz"
+    ],
+    "correct_option_id": 0
+  }
+]
